@@ -1,0 +1,27 @@
+.task-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .task-form input {
+    margin: 5px;
+    padding: 8px;
+  }
+  
+  .task-form button {
+    padding: 8px 12px;
+  }
+  
+  .task-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .task-item {
+    background: #f1f1f1;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
